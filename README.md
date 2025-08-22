@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://fb.com/fug248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fug248" height="30" width="40" /></a>
 </p>
-### :man_technologist: About Me :
+:man_technologist: About Me :
 
 My name is <b> Phuc Pham Quang Dai </b>, but you can call me <b> Pham Phuc </b>.
 - 👨‍🎓 Student from <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>

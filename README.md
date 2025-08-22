@@ -1,5 +1,4 @@
 <h1 align="center">Phạm Quang Đại Phúc</h1>
-<h3 align="center">Developer</h3>
 :man_technologist: About Me :
 
 My name is <b> Phuc Pham Quang Dai </b>, but you can call me <b> Pham Phuc </b>.

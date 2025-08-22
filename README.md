@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phạm Quang Đại Phúc</h1>
+<h1 align="center">Phạm Quang Đại Phúc</h1>
 <h3 align="center">Developer</h3>
 
 - 📫 How to reach me **phamphuc240804@gmail.com**
